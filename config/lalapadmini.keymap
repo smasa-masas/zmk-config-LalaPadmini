@@ -190,9 +190,9 @@
         TERTIARY_LAYER {
             display-name = "tertiary_layer";
             bindings = <
-&kp LS(NUMBER_2)             &kp RIGHT_BRACKET      &kp NON_US_HASH  &kp LS(NUMBER_8)  &kp LS(NUMBER_9)  &kp PAGE_UP    &kp PAGE_UP         &kp UP_ARROW  &kp PAGE_DOWN        &kp PRINTSCREEN
+&kp LS(NUMBER_2)             &kp RIGHT_BRACKET      &kp NON_US_HASH  &kp LS(NUMBER_8)  &kp LS(NUMBER_9)  &kp PAGE_UP    &kp LC(PAGE_UP)     &kp UP_ARROW  &kp LC(PAGE_DOWN)    &kp PRINTSCREEN
 &kp EXCL                     &kp LEFT_BRACKET       &kp POUND        &kp DOLLAR        &kp PRCNT         &kp PAGE_DOWN  &kp LEFT            &kp DOWN      &kp RIGHT            &none
-&mt LEFT_SHIFT LS(NUMBER_7)  &kp LS(RIGHT_BRACKET)  &kp PIPE         &kp LESS_THAN     &kp GREATER_THAN  &kp BACKSLASH  &kp LA(LEFT_ARROW)  &none         &kp LA(RIGHT_ARROW)  &kp RIGHT_SHIFT
+&mt LEFT_SHIFT LS(NUMBER_7)  &kp LS(RIGHT_BRACKET)  &kp PIPE         &kp LESS_THAN     &kp GREATER_THAN  &kp BACKSLASH  &kp LC(LEFT_ARROW)  &none         &kp LC(RIGHT_ARROW)  &kp RIGHT_SHIFT
 &trans                       &trans                                  &trans            &trans            &trans         &trans                            &trans               &trans
             >;
 
