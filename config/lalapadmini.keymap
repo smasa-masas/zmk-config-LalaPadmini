@@ -180,7 +180,7 @@
             sensor-bindings = <&scroll_left_right>, <&scroll_left_right>;
 
             bindings = <
-&mt2 F1 NUMBER_1                &mt2 LS(NUMBER_2) LS(NUMBER_2)  &mt2 F3 NUMBER_3  &mt2 F4 F4        &mt2 F5 N5         &kp KP_PLUS      &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS
+&mt2 F1 NUMBER_1                &mt2 LS(NUMBER_2) LS(NUMBER_2)  &mt2 F3 NUMBER_3  &mt2 F4 F4        &kp LG(LS(S))      &kp KP_PLUS      &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS
 &mt2 LS(NUMBER_6) LS(NUMBER_6)  &mt2 F7 N7                      &mt2 F8 N8        &mt2 F9 N9        &mt2 F10 N0        &kp KP_MULTIPLY  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_SLASH
 &mt2 F11 GRAVE                  &mt2 F12 SQT                    &kp SEMICOLON     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_DOT
 &trans                          &trans                                            &trans            &trans             &kp DELETE       &trans                            &none            &kp KP_COMMA
